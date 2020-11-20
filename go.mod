@@ -1,4 +1,4 @@
-module github.com/shurcooL/graphql
+module github.com/cli/shurcooL-graphql
 
 go 1.13
 
